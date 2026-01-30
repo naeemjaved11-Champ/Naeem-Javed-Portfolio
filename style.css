@@ -41,7 +41,7 @@ header {
 nav a { font-size: 16px; color: var(--text-color); text-decoration: none; margin-left: 30px; font-weight: 500; }
 nav a:hover, nav a.active { color: var(--main-color); }
 
-/* Theme Switch UI Fix */
+/* Theme Switch */
 #theme-checkbox { display: none; } 
 .switch-label { width: 55px; height: 28px; background: #1e293b; display: flex; border-radius: 50px; align-items: center; justify-content: space-between; padding: 5px; cursor: pointer; position: relative; }
 .ball { width: 22px; height: 22px; background: #fff; border-radius: 50%; position: absolute; left: 3px; transition: 0.3s; }
